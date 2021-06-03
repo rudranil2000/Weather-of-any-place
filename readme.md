@@ -1,0 +1,1 @@
+A simple Weather API Aapplication to show weather of any place according to the Open Weather API. An api key is need for running this on your system.
